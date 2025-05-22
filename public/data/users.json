@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2",
+    "firstname": "Jane",
+    "lastname": "Doe",
+    "email": "test@test.com",
+    "password": "password456",
+    "registerdate": "04/01/2023",
+    "points": 120
+  },
+  { 
+   "id": "1",
+    "firstname": "David",
+    "lastname": "John",
+    "email": "test1@test.com",
+    "password": "mogw-0tm3n4t34",
+    "registerdate": "04/01/2023",
+    "points": 120
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Café Dark Roast de Brasil",
+    "image": "/images/cafe-dark-roast.png",
+    "category": "BEST SELLER",
+    "description": "Ideal para quien busca sabores tradicionales e intensos",
+    "weight": "250g from Brasil",
+    "price": "20€"
+  },
+  {
+    "id": 2,
+    "name": "Café de Brasil en grano",
+    "image": "/images/cafe-brasil.png",
+    "category": "NEW FLAVOR",
+    "description": "Ideal para disfrutar con leche o bebida vegetal por su baja acidez",
+    "weight": "250g from Brasil",
+    "price": "15€"
+  },
+  {
+    "id": 3,
+    "name": "Café Kilimanjaro",
+    "image": "/images/kilimanjaro.png",
+    "category": "Café",
+    "description": "Su acidez brillante con notas de bayas rojas y chocolate.",
+    "weight": "250g Café Molido",
+    "price": "17€",
+    "sellingPhrase": "Equilibrio perfecto, sabor vibrante."
+  },
+  {
+    "id": 4,
+    "name": "Café Tarrazú",
+    "image": "/images/tarrazu.png",
+    "category": "Café",
+    "description": "Acidez brillante y notas a caramelo, frutos secos y cítricos.",
+    "weight": "250g Café en Granos",
+    "price": "20€",
+    "sellingPhrase": "Equilibrio perfecto, sabor vibrante."
+  },
+  {
+    "id": 5,
+    "name": "Te de Rooibos",
+    "image": "/images/terooibos.png",
+    "category": "",
+    "description": "Un té naturalmente dulce con toques de miel y vainilla.",
+    "weight": "120g Eco-Sustainable Oolong Tea",
+    "price": "10€"
+  },
+  {
+    "id": 6,
+    "name": "Yerbaluisa",
+    "image": "/images/yerbaluisa.png",
+    "category": "",
+    "description": " Es muy apreciada por sus propiedades relajantes y digestivas.",
+    "weight": "120g Eco-Sustainable Oolong Tea",
+    "price": "11€"
+  },
+  {
+    "id": 7,
+    "name": "Té de Muña",
+    "image": "/images/munia.jpg",
+    "category": "Té",
+    "description": "Una infusión andina con un sabor mentolado y propiedades digestivas.",
+    "weight": "100g Hojas Secas",
+    "price": "15€",
+    "sellingPhrase": "Frescura y bienestar puro."
+  },
+  {
+    "id": 8,
+    "name": "Té Kukicha",
+    "image": "/images/kukicha.jpg",
+    "category": "Té",
+    "description": "Un sabor suave, ligeramente dulce.",
+    "weight": "120g Té Kukicha",
+    "price": "12€",
+    "sellingPhrase": "Suavidad y equilibrio natural."
+
+  }
+
+]
